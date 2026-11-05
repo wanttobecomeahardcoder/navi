@@ -34,12 +34,12 @@ english localization is not yet supported. the voice assistant currently only re
 | `name.txt`                     | contains only a single line with your name, nothing extra                                        | name                       | —                             | `sir`                            |
 
 ---
-# 📝 note: 
+## 📝 note: 
 
 the frontend was built using chatGPT
 
 ---
-# ☕ support the author
+## ☕ support the author
 
 if you like this voice assistant and want to support its development, you can buy me a can of energy drink! any support is greatly appreciated.
 
