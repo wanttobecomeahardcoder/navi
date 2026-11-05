@@ -6,7 +6,6 @@
 
 this project was inspired by the anime **Serial Experiments Lain**. however, it is an independent, fan-made project and is <u>not affiliated</u> with, authorized, maintained, sponsored, or endorsed by the original creators, authors, production studios, or any of their affiliates. all trademarks and copyrights belong to their respective owners.
 
-
 ---
 ##  ⚠️ whisper model setup
 
@@ -39,6 +38,7 @@ english localization is not yet supported. the voice assistant currently only re
 
 the frontend was built using chatGPT
 
+---
 # ☕ support the author
 
 if you like this voice assistant and want to support its development, you can buy me a can of energy drink! any support is greatly appreciated.
