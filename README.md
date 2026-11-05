@@ -1,16 +1,16 @@
 # NAVI
-### full local open source voice assistent for COSMIC DE
+## full local open source voice assistent for COSMIC DE
 
 ---
-# ⚖️ disclaimer
+## ⚖️ disclaimer
 
-### this project was inspired by the anime *Serial Experiments Lain*. however, it is an independent, fan-made project and is <u>not affiliated</u> with, authorized, maintained, sponsored, or endorsed by the original creators, authors, production studios, or any of their affiliates. all trademarks and copyrights belong to their respective owners.
+this project was inspired by the anime **Serial Experiments Lain**. however, it is an independent, fan-made project and is <u>not affiliated</u> with, authorized, maintained, sponsored, or endorsed by the original creators, authors, production studios, or any of their affiliates. all trademarks and copyrights belong to their respective owners.
 
 
 ---
-#  ⚠️ whisper model setup
+##  ⚠️ whisper model setup
 
-### the whisper model files are split into parts due to github size limits. after cloning the repository, assemble the original model file by running this command in your terminal:
+the whisper model files are split into parts due to github size limits. after cloning the repository, assemble the original model file by running this command in your terminal:
 
 
 ```bash
@@ -19,16 +19,13 @@ cat models/whisper/model.bin.part* > models/whisper/model.bin
 
 after successful assembly, you can safely delete the .part* files to save space
 
+---
+## ⚠️ localization
 
-### after successful assembly, you can safely delete the .part* files to save space
+english localization is not yet supported. the voice assistant currently only recognizes russian speech.
 
 ---
-# ⚠️ localization
-
-### english localization is not yet supported. the voice assistant currently only recognizes russian speech.
-
----
-# ⚙️ aliases, dictionary and custom commands:
+## ⚙️ aliases, dictionary and custom commands:
 
 | file name(`support_files/...`) | usability                                                                                        | var 1                      | var 2                         | exemple                          |
 |:-------------------------------|:-------------------------------------------------------------------------------------------------|:---------------------------|:------------------------------|:---------------------------------|
@@ -40,11 +37,11 @@ after successful assembly, you can safely delete the .part* files to save space
 ---
 # 📝 note: 
 
-### the frontend was built using chatGPT
+the frontend was built using chatGPT
 
 # ☕ support the author
 
-### if you like this voice assistant and want to support its development, you can buy me a can of energy drink! any support is greatly appreciated.
+if you like this voice assistant and want to support its development, you can buy me a can of energy drink! any support is greatly appreciated.
 
 #### **boosty:** `https://boosty.io/wanttobecomeahardcoder/about`
 #### **crypto (USDT TRC-20):** `TY6DtKF3vud9dR21TCniVNSZXEnDjjkLYD`
